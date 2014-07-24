@@ -1,10 +1,10 @@
-#Golo Syntax Definition for Sublime Text 2
+#Golo Syntax Definition for Sublime Text 2 & 3
 
-This is [Sumblime Text 2](http://www.sublimetext.com/) syntax definition for [Golo](http://golo-lang.org/) programming language.
+This is [Sublime Text 2 & 3](http://www.sublimetext.com/) syntax definition for [Golo](http://golo-lang.org/) programming language.
 
 ##Installation
 
-Copy `golo.tmLanguage` file to `Sublime Text 2/Packages/User`
+Copy `golo.tmLanguage` file to `Sublime Text <version>/Packages/User`. For example, for Windows and Sublime Text 3, to `%AppData%/Sublime Text 3/Packages/User`.
 
 ##Have fun
 
